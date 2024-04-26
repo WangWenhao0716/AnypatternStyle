@@ -1,5 +1,5 @@
 # Anypattern helps artists
-Another application of "[AnyPattern: Towards In-context Image Copy Detection](https://arxiv.org/pdf/2404.13788.pdf)"
+Another application of our paper "[AnyPattern: Towards In-context Image Copy Detection](https://arxiv.org/pdf/2404.13788.pdf)"
 
 The text-to-image model can be used to mimic the style of artwork with little cost, and this threatens the livelihoods and creative rights of artists. To help them protect their work, we treat an artist’s ‘style’ as a ‘pattern’ and generalize the trained pattern retrieval method to identify generated images with style mimicry. 
 
