@@ -4,6 +4,9 @@ The text-to-image model can be used to mimic the style of artwork with little co
 ## Training
 Please refer to the original [repository](https://github.com/WangWenhao0716/AnyPattern) of AnyPattern.
 
+## Demonstration
+
+
 ## Installation
 ```
 conda create -n style python=3.9
