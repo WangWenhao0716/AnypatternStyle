@@ -4,7 +4,7 @@ The style extractor trained on AnyPattern
 
 ## Usage
 
-```
+```python
 import requests
 import torch
 from PIL import Image
