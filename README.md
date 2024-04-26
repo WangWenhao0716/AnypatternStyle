@@ -1,6 +1,8 @@
 # Anypattern helps artists
 The text-to-image model can be used to mimic the style of artwork with little cost, and this threatens the livelihoods and creative rights of artists. To help them protect their work, we treat an artist’s ‘style’ as a ‘pattern’ and generalize the trained pattern retrieval method to identify generated images with style mimicry. 
 
+## Training
+Please refer to the original [repository](https://github.com/WangWenhao0716/AnyPattern) of AnyPattern.
 
 ## Installation
 ```
