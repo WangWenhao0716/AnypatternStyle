@@ -39,3 +39,21 @@ style_features = model.forward_features(x)  # => torch.Size([1, 768])
 style_features_normalized = torch.nn.functional.normalize(style_features, p=2, dim=1)  # => torch.Size([1, 768])
 
 ```
+
+## Citation
+```
+@inproceedings{
+    wang2024AnyPattern,
+    title={AnyPattern: Towards In-context Image Copy Detection},
+    author={Wang, Wenhao and Sun, Yifan and Tan, Zhentao and Yang, Yi},
+    booktitle={arXiv preprint arXiv:2404.13788},
+    year={2024},
+}
+```
+
+## Contact
+
+If you have any questions, feel free to contact [Wenhao Wang](https://wangwenhao0716.github.io/) (wangwenhao0716@gmail.com).
+
+
+
