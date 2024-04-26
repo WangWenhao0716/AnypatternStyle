@@ -2,6 +2,15 @@
 The style extractor trained on AnyPattern
 
 
+## Installation
+```
+conda create -n style python=3.9
+conda activate style
+pip install torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+pip install timm==0.4.12
+```
+
+
 ## Usage
 
 ```python
