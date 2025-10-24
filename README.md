@@ -44,12 +44,11 @@ style_features_normalized = torch.nn.functional.normalize(style_features, p=2, d
 
 ## Citation
 ```
-@inproceedings{
-    wang2024AnyPattern,
+@article{wang2025AnyPattern,
     title={AnyPattern: Towards In-context Image Copy Detection},
     author={Wang, Wenhao and Sun, Yifan and Tan, Zhentao and Yang, Yi},
-    booktitle={arXiv preprint arXiv:2404.13788},
-    year={2024},
+    booktitle={International Journal of Computer Vision},
+    year={2025},
 }
 ```
 
